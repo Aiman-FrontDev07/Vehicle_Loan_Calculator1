@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculate Your Vehicle Loan</string>
+    <string name="home">Home</string>
+    <string name="about">About</string>
+
+    <!-- Main Activity -->
+    <string name="vehicle_price">Vehicle Price (RM)</string>
+    <string name="down_payment">Down Payment (RM)</string>
+    <string name="loan_period">Loan Period (Years)</string>
+    <string name="interest_rate">Interest Rate (% per year)</string>
+    <string name="calculate">Calculate</string>
+    <string name="reset">Reset</string>
+    <string name="results_title">Calculation Results</string>
+    <string name="loan_amount">Loan Amount:</string>
+    <string name="total_interest">Total Interest:</string>
+    <string name="total_payment">Total Payment:</string>
+    <string name="monthly_payment">Monthly Payment:</string>
+
+    <!-- About Activity -->
+    <string name="about_title">About This Application</string>
+    <string name="author_info">Author Information</string>
+    <string name="author_name">Name: MUHAMMAD AIMAN HAYKAL BIN RIDZUAN</string>
+    <string name="author_matric">Matric No: 2023870468</string>
+    <string name="author_course">Course: ICT602 - Mobile Technology</string>
+    <string name="app_description">This Vehicle Loan Calculator helps you estimate your monthly vehicle loan payments based on the vehicle price, down payment, loan period, and interest rate. The app provides a detailed breakdown of loan amount, total interest, total payment, and monthly installment.</string>
+    <string name="github_title">GitHub Repository</string>
+    <string name="github_url">https://github.com/aimanhaykal/vehicle-loan-calculator</string>
+    <string name="copyright">© 2024 Vehicle Loan Calculator. All rights reserved.</string>
+    <string name="developed_for">Developed for ICT602 Mobile Technology Assignment</string>
+</resources>
