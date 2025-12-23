@@ -1,0 +1,1 @@
+This project was developed to enable users to calculate car loan amounts via a mobile application. The system was built using Android Studio version 2025.2.1.7 with the Java programming language. The primary objective of this system is to serve as a learning tool for Android mobile application development.
